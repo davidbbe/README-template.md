@@ -1,2 +1,19 @@
-# README-template.md
-Custom readme template for my personal use
+# Project Name
+
+TODO: Write a project description
+
+## Installation
+
+cd to root folder in your CLI of choice
+run command "grunt" to watch, concat, and compile css and js.
+
+## Built With
+
+* [Bootstrap](https://getbootstrap.com/docs/3.3/) - Front-end component library
+* [Waypoints](http://imakewebthings.com/waypoints/) - Trigger a function when you scroll to an element
+* [Font Awesome](https://fontawesome.com/) - Icon Library
+* [Google Fonts](https://fonts.google.com/) - Font Libraries
+
+## License
+
+TODO: Write license
